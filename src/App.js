@@ -6,7 +6,9 @@ const redColor = {
   color: 'red'
 };
 
-
+/**
+ * test comment 3 --- wroks for JSDoc
+ */
 function App() {
   return (
     <div className="App">

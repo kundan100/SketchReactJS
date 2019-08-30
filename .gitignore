@@ -79,6 +79,7 @@ typings/
 .env.test.local
 .env.production.local
 .vscode
+/jsdoc_out
 
 npm-debug.log*
 yarn-debug.log*
