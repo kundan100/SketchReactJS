@@ -12,7 +12,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "jsdoc": "./node_modules/.bin/jsdoc --debug -c jsdoc.conf.json"
+    "jsdoc": "./node_modules/.bin/jsdoc -c jsdoc.conf.json",
+    "jsdoc--debug": "./node_modules/.bin/jsdoc --debug -c jsdoc.conf.json"
   },
   "eslintConfig": {
     "extends": "react-app"
